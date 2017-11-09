@@ -1,0 +1,14 @@
+{
+  "name": "loudenbrumen",
+  "version": "1.0.0",
+  "description": "St Louis and Denver Brunch Menus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Brunch"
+  ],
+  "author": "Joe Heitkamp",
+  "license": "ISC"
+}
